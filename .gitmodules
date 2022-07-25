@@ -1,0 +1,6 @@
+[submodule "qr-checkin-frontend"]
+	path = qr-checkin-frontend
+	url = git@github.com:SKKU-TSC/qr-checkin-frontend.git
+[submodule "qr-checkin-backend"]
+	path = qr-checkin-backend
+	url = git@github.com:SKKU-TSC/qr-checkin-backend.git
